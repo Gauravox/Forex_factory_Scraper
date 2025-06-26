@@ -26,5 +26,6 @@ The scraped data will be saved in a file named `forex_factory_calendar.csv` in t
 * Python 3.9 or higher
 * Google Chrome installed
 * Stable internet connection
-
+  
+In the folder i also add sample to watch out to you that what this bot can saved so please check out them and enjoy the code 
 Feel free to tweak the code as needed. If you face any issues, let me know!
