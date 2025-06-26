@@ -1,0 +1,40 @@
+utc_datetime,impact,currency,event,actual,forecast,previous
+2025-01-01T18:30:00Z,,,,,,
+2025-01-02,Non-Economic,NZD,Bank Holiday,,,
+2025-01-02,Non-Economic,JPY,Bank Holiday,,,
+2025-01-02T01:45:00Z,Low Impact Expected,CNY,Caixin Manufacturing PMI,50.5,51.6,51.5
+2025-01-02T05:30:00Z,Low Impact Expected,AUD,Commodity Prices y/y,-10.7%,,-10.8%
+2025-01-02,Non-Economic,CHF,Bank Holiday,,,
+2025-01-02T07:00:00Z,Low Impact Expected,GBP,Nationwide HPI m/m,0.7%,0.1%,1.2%
+2025-01-02T08:15:00Z,Low Impact Expected,EUR,Spanish Manufacturing PMI,53.3,53.6,53.1
+2025-01-02T08:45:00Z,Low Impact Expected,EUR,Italian Manufacturing PMI,46.2,44.9,44.5
+2025-01-02T08:50:00Z,Low Impact Expected,EUR,French Final Manufacturing PMI,41.9,41.9,41.9
+2025-01-02T08:55:00Z,Low Impact Expected,EUR,German Final Manufacturing PMI,42.5,42.5,42.5
+2025-01-02T09:00:00Z,Low Impact Expected,EUR,Final Manufacturing PMI,45.1,45.2,45.2
+2025-01-01T18:30:00Z,Low Impact Expected,EUR,M3 Money Supply y/y,3.8%,3.5%,3.4%
+2025-01-01T18:30:00Z,Low Impact Expected,EUR,Private Loans y/y,0.9%,0.9%,0.8%
+2025-01-02T09:30:00Z,Low Impact Expected,GBP,Final Manufacturing PMI,47.0,47.3,47.3
+2025-01-02T13:30:00Z,High Impact Expected,USD,Unemployment Claims,211K,222K,220K
+2025-01-02T14:30:00Z,Low Impact Expected,CAD,Manufacturing PMI,52.2,,52.0
+2025-01-02T14:45:00Z,Medium Impact Expected,USD,Final Manufacturing PMI,49.4,48.3,48.3
+2025-01-02T15:00:00Z,Low Impact Expected,USD,Construction Spending m/m,0.0%,0.3%,0.5%
+2025-01-02T16:00:00Z,Medium Impact Expected,USD,Crude Oil Inventories,-1.2M,-2.4M,-4.2M
+2025-01-02T18:30:00Z,,,,,,
+2025-01-03,Non-Economic,JPY,Bank Holiday,,,
+2025-01-03T08:00:00Z,Low Impact Expected,EUR,Spanish Unemployment Change,-25.3K,-46.5K,-16.0K
+2025-01-03T08:30:00Z,Low Impact Expected,CHF,Manufacturing PMI,48.4,48.4,48.5
+2025-01-03T08:55:00Z,Low Impact Expected,EUR,German Unemployment Change,10K,15K,6K
+2025-01-03T09:30:00Z,Low Impact Expected,GBP,M4 Money Supply m/m,0.0%,0.1%,-0.2%
+2025-01-02T18:30:00Z,Low Impact Expected,GBP,Mortgage Approvals,66K,69K,68K
+2025-01-02T18:30:00Z,Low Impact Expected,GBP,Net Lending to Individuals m/m,3.4B,4.4B,4.5B
+2025-01-03T15:00:00Z,High Impact Expected,USD,ISM Manufacturing PMI,49.3,48.2,48.4
+2025-01-02T18:30:00Z,Medium Impact Expected,USD,ISM Manufacturing Prices,52.5,51.5,50.3
+2025-01-03,Low Impact Expected,USD,Wards Total Vehicle Sales,16.8M,16.5M,16.5M
+2025-01-03T15:30:00Z,Low Impact Expected,USD,Natural Gas Storage,-116B,-127B,-93B
+2025-01-03T16:00:00Z,Low Impact Expected,USD,FOMC Member Barkin Speaks,,,
+2025-01-03T18:30:00Z,,,,,,
+2025-01-03T18:30:00Z,,,,,,
+2025-01-04T18:30:00Z,,,,,,
+2025-01-04T22:30:00Z,Low Impact Expected,USD,FOMC Member Daly Speaks,,,
+2025-01-04T18:30:00Z,Low Impact Expected,USD,FOMC Member Kugler Speaks,,,
+2025-01-05T18:15:00Z,Low Impact Expected,USD,FOMC Member Daly Speaks,,,
